@@ -1,0 +1,9 @@
+# 忽略特定檔名
+pig.txt
+*.log
+
+#忽略特定目錄
+download/
+
+#忽略自己
+.gitignore
