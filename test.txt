@@ -5,3 +5,4 @@ I drink coffee.
 Sharing informatin feels good!
 I like to teach people!
 Git is a good tool.
+I like git so much!
